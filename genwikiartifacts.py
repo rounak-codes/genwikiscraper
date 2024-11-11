@@ -27,4 +27,4 @@ for tr in trs[0:]: # Skip the header row
 df = pd.DataFrame({"name": name, "quality": quality, "bonuses": bonuses})
 print(df)
 
-df.to_csv('genwikiartifacts.csv')
+df.to_csv('artifacts.csv')

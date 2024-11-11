@@ -30,4 +30,4 @@ df = pd.DataFrame({"name": name, "quality": quality, "base_atk": base_atk,
                    "substat": substat, "passive": passive})
 print(df)
 
-df.to_csv('genwikiweapons.csv')
+df.to_csv('weapons.csv')
