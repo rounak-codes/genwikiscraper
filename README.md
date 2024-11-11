@@ -9,4 +9,5 @@ BeautifulSoup: To parse HTML and extract data.
 pandas: To manage and manipulate the data.
 Your choice of csv reader
 
+# Instructions :
 Just run the .py files and they will output the data into their respective .csv file.
